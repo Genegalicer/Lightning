@@ -23,7 +23,7 @@ while(endX<=300){
 }
 }
 
-void mousePressed()
+void mouseDragged()
 {
 	redraw();
  startX=0;
